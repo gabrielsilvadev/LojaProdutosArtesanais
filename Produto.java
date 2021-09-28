@@ -1,3 +1,4 @@
+// na criaçao da instacia de cad aproduot foi usada o padrao build para especificar os parametros para o construtor 
 public class Produto {
     private String name;
     private String categoria;

@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// Nessa parte foi usado o padroa compose para manipular o array de produtos 
 public class Loja {
   private ArrayList<Produto> Produtos;
   public String nome; 
